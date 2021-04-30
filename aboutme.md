@@ -5,7 +5,7 @@ subtitle: Just a Data Analyst in POP.
 ---
 
 <p align="center">
-  <img width="360" height="360" src="https://raw.githubusercontent.com/michaelqmaguire/michaelqmaguire.github.io/master/assets/img/maguire-2.png">
+  <img width="360" height="420" src="https://raw.githubusercontent.com/michaelqmaguire/michaelqmaguire.github.io/master/assets/img/maguire-2.png">
 </p>
 
 I'm Michael Maguire, and I know next to nothing about pharmaceuticals.
