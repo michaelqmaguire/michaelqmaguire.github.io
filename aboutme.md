@@ -4,7 +4,7 @@ title: About me
 subtitle: Just another data analyst in the Department of Pharmaceutical Outcomes and Policy.
 ---
 
-![me][/assets/img/maguire.jpg]
+![me][https://github.com/michaelqmaguire/michaelqmaguire.github.io/blob/master/assets/img/maguire.jpg]
 
 I'm Michael Maguire, and I know next to nothing about pharmaceuticals.
 
@@ -18,7 +18,7 @@ I'm Michael Maguire, and I know next to nothing about pharmaceuticals.
 
 ### My story (TLDR: I like my job and found it unexpectedly).
 
-I was born in Gainesville, FL in 1991. I went to Littlewood Elementary School, Westwood Middle School, and Gainesville High School. I have a reputation around town of being a great baseball player until I totally lost interest **and** plateaued around the age of 15. 
+I was born in Gainesville, FL in 1991. I went to Littlewood Elementary School, Westwood Middle School, and Gainesville High School. I have a reputation around town of being a great baseball player until I totally lost interest **and** plateaued in skill around the age of 15. 
 
 I went to Florida State University for my undergraduate degree in Criminology, but my minor in Philosophy proved to be the real engine for my growth as a data analyst -- Symbolic Logic, a course taught by a Professor from Oxford (Oxford and FSU philosophy have a strong connection, apparently) was the first sign that I loved learning the material and laws that provide a foundation for our daily statements and claims. I asked many professors to get into research as an undergraduate, but they never quite seemed interested or would give me the cold shoulder, so I continued living in the dark about statistical programming languages.
 
