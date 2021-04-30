@@ -5,10 +5,8 @@ subtitle: Just a Data Analyst in POP.
 ---
 
 <p align="center">
-  <img width="460" height="300" src="https://raw.githubusercontent.com/michaelqmaguire/michaelqmaguire.github.io/master/assets/img/maguire-2.png">
+  <img width="360" height="360" src="https://raw.githubusercontent.com/michaelqmaguire/michaelqmaguire.github.io/master/assets/img/maguire-2.png">
 </p>
-
-![selfie]()
 
 I'm Michael Maguire, and I know next to nothing about pharmaceuticals.
 
@@ -19,6 +17,7 @@ I'm Michael Maguire, and I know next to nothing about pharmaceuticals.
 - I love making pretty graphs. We can talk numbers, we can show frequency tables and averages, but graphs are much better at encapsulating the information you need to convey.
 - I am not good at reading other people's code. Please format it in some consistent way to help strengthen one of my greatest weaknesses.
 - Forgot to mention -- I work for Dr. Amie Goodin and Dr. Juan Hincapie-Castillo.
+- I'm physically in my office (HPNP 2330) M - F from 8 - 4:30 p.m.
 
 ### My story (TLDR: I love my job and found it unexpectedly).
 
