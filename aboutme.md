@@ -3,8 +3,9 @@ layout: page
 title: About Me
 subtitle: Just a Data Analyst in POP.
 ---
+
 <p align="center">
-  <img width="360" height="420" src="https://raw.githubusercontent.com/michaelqmaguire/michaelqmaguire.github.io/master/assets/img/maguire-2.png">
+  <img width="360" height="480" src="https://raw.githubusercontent.com/michaelqmaguire/michaelqmaguire.github.io/master/assets/img/maguire-2.png">
 </p>
 
 I'm Michael Maguire, and I'm not familiar with pharmaceuticals or policy surrounding pharmaecuticals (though I'm learning).
