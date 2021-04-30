@@ -4,7 +4,7 @@ title: About Me
 subtitle: Just a Data Analyst in POP.
 ---
 
-![profile][assets/img/maguire.jpg]
+![selfie][https://github.com/michaelqmaguire/michaelqmaguire.github.io/blob/b975fc9aebbd513d851d150e649c42fe8fb7d8fa/assets/img/maguire.jpg]
 
 I'm Michael Maguire, and I know next to nothing about pharmaceuticals.
 
