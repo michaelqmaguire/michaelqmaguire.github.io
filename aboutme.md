@@ -4,6 +4,8 @@ title: About me
 subtitle: Just another data analyst in the Department of Pharmaceutical Outcomes and Policy.
 ---
 
+![me][assets/img/maguire.jpg]
+
 I'm Michael Maguire, and I know next to nothing about pharmaceuticals.
 
 - I do, however, enjoy munging data.
