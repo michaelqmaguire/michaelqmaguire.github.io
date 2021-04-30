@@ -42,9 +42,9 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  # email: michaelqmaguire2
-  github: michaelqmaguire
-  twitter: maguiremq
+  email: "michaelqmaguire2@ufl.edu"
+#  github: michaelqmaguire
+#  twitter: maguiremq
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
