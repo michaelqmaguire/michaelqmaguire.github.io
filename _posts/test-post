@@ -1,0 +1,15 @@
+---
+layout: post
+title: Testing out some SAS code.
+subtitle: Not really anything serious
+gh-repo: daattali/beautiful-jekyll
+gh-badge: [star, fork, follow]
+tags: [SAS]
+comments: true
+---
+
+```sas
+proc import datafile = "./";
+out = want;
+run;
+```
