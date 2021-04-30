@@ -3,12 +3,11 @@ layout: page
 title: About Me
 subtitle: Just a Data Analyst in POP.
 ---
-
 <p align="center">
   <img width="360" height="420" src="https://raw.githubusercontent.com/michaelqmaguire/michaelqmaguire.github.io/master/assets/img/maguire-2.png">
 </p>
 
-I'm Michael Maguire, and I know next to nothing about pharmaceuticals.
+I'm Michael Maguire, and I'm not familiar with pharmaceuticals or policy surrounding pharmaecuticals (though I'm learning).
 
 - I do, however, enjoy munging data.
 - I love to automate things. If it can go in a function or a macro, don't question -- the computer is going to do it for me.
