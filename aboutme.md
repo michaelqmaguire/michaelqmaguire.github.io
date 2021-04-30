@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-subtitle: One of the Data Analysts in POP.
+subtitle: Just a Data Analyst in POP.
 ---
 
 ![profile][assets/img/maguire.jpg]
