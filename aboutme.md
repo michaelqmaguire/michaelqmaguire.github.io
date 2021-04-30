@@ -15,7 +15,7 @@ I'm Michael Maguire, and I'm not familiar with pharmaceuticals or policy surroun
 - I want to build a programming language bridge for graduate students that know other languages.
 - I am decent at deciphering the hieroglyphics of programming documentation, but even I stumble sometimes. I want to make things simpler for you all.
 - I love making pretty graphs. We can talk numbers, we can show frequency tables and averages, but graphs are much better at encapsulating the information you need to convey.
-- I am not good at reading other people's code. Please format it in some consistent way to help strengthen one of my greatest weaknesses.
+- I am not the best at reading other people's code. Please be patient with me. 
 - Forgot to mention -- I work for Dr. Amie Goodin and Dr. Juan Hincapie-Castillo.
 - I'm physically in my office (HPNP 2330) M - F from 8 - 4:30 p.m.
 
