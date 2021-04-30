@@ -14,6 +14,7 @@ I'm Michael Maguire, and I'm not familiar with pharmaceuticals or policy surroun
 - I love to automate things. If it can go in a function or a macro, don't question -- the computer is going to do it for me.
 - I want to build a programming language bridge for graduate students that know other languages.
 - I am decent at deciphering the hieroglyphics of programming documentation, but even I stumble sometimes. I want to make things simpler for you all.
+- I am a bit obsessive about organized code. I have developed conventions that may look odd at first sight, but it helps keep things organized and consistent across scripts/programs.
 - I love making pretty graphs. We can talk numbers, we can show frequency tables and averages, but graphs are much better at encapsulating the information you need to convey.
 - I am not the best at reading other people's code. Please be patient with me. 
 - Forgot to mention -- I work for Dr. Amie Goodin and Dr. Juan Hincapie-Castillo.
