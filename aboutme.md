@@ -4,7 +4,11 @@ title: About Me
 subtitle: Just a Data Analyst in POP.
 ---
 
-![selfie](https://raw.githubusercontent.com/michaelqmaguire/michaelqmaguire.github.io/master/assets/img/maguire.jpg)
+<p align="center">
+  <img width="460" height="300" src="https://raw.githubusercontent.com/michaelqmaguire/michaelqmaguire.github.io/master/assets/img/maguire-2.png">
+</p>
+
+![selfie]()
 
 I'm Michael Maguire, and I know next to nothing about pharmaceuticals.
 
