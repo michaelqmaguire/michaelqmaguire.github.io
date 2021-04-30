@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Just another data analyst in the Department of Pharmaceutical Outcomes and Policy.
+title: About Me
+subtitle: One of the Data Analysts in POP.
 ---
 
 ![profile][assets/img/maguire.jpg]
@@ -14,7 +14,7 @@ I'm Michael Maguire, and I know next to nothing about pharmaceuticals.
 - I am decent at deciphering the hieroglyphics of programming documentation, but even I stumble sometimes. I want to make things simpler for you all.
 - I love making pretty graphs. We can talk numbers, we can show frequency tables and averages, but graphs are much better at encapsulating the information you need to convey.
 - I am not good at reading other people's code. Please format it in some consistent way to help strengthen one of my greatest weaknesses.
-- Forgot to mention - I work for Dr. Amie Goodin and Dr. Juan Hincapie-Castillo.
+- Forgot to mention -- I work for Dr. Amie Goodin and Dr. Juan Hincapie-Castillo.
 
 ### My story (TLDR: I love my job and found it unexpectedly).
 
@@ -37,5 +37,11 @@ Tallahassee was growing old on me, and I saw an opportunity come up at the UF Co
 The rest is history. I don't know why they picked me, but I am so excited to be here. I am so excited to learn and be surrounded with such amazing faculty, staff, and graduate students. Everyone I encounter here is amazing in their own way, and I am honored to be a part of your experience here.
 
 **My job is to make your life easier.**
+
+**I want to make sure that none of you go through what I went through learning statistical programming lanaguages.**
+
+**I want you to feel comfortable working with data.**
+
 **PLEASE see me if you have an issue, and even if I can't solve it and someone else solves it, I need to know how to figure it out myself -- you won't be the last one having the issue, I'm sure.**
+
 **I will let you know if I am busy with something else. Don't ever feel like you're pestering me, PLEASE!**
