@@ -16,7 +16,7 @@ I'm Michael Maguire, and I know next to nothing about pharmaceuticals.
 - I am not good at reading other people's code. Please format it in some consistent way to help strengthen one of my greatest weaknesses.
 - Forgot to mention - I work for Dr. Amie Goodin and Dr. Juan Hincapie-Castillo.
 
-### My story (TLDR: I like my job and found it unexpectedly).
+### My story (TLDR: I love my job and found it unexpectedly).
 
 I was born in Gainesville, FL in 1991. I went to Littlewood Elementary School, Westwood Middle School, and Gainesville High School. I have a reputation around town of being a great baseball player until I totally lost interest **and** plateaued in skill around the age of 15. 
 
