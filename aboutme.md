@@ -12,6 +12,7 @@ I'm Michael Maguire, and I know next to nothing about pharmaceuticals.
 - I am decent at deciphering the hieroglyphics of programming documentation, but even I stumble sometimes. I want to make things simpler for you all.
 - I love making pretty graphs. We can talk numbers, we can show frequency tables and averages, but graphs are much better at encapsulating the information you need to convey.
 - I am not good at reading other people's code. Please format it in some consistent way to help strengthen one of my greatest weaknesses.
+- Forgot to mention - I work for Dr. Amie Goodin and Dr. Juan Hincapie-Castillo.
 
 ### My story (TLDR: I like my job and found it unexpectedly).
 
