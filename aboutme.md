@@ -22,7 +22,7 @@ I'm Michael Maguire, and I'm a data analyst in The Department of Pharmaceutical 
 
 I was born in Gainesville, FL in 1991.
 
-I went to Florida State University for my undergraduate degree in Criminology, but my minor in Philosophy proved to be the real engine for my growth as a data analyst -- Symbolic Logic, a course taught by a Professor from Oxford (Oxford and FSU philosophy have a strong connection, apparently) was the first sign that I loved learning the material and laws that provide a foundation for our daily statements and claims.
+I went to Florida State University for my undergraduate degree in Criminology, but my minor in Philosophy proved to be the real engine for my growth as a data analyst -- Symbolic Logic, a course taught by a Professor from Oxford (Oxford and FSU philosophy have a strong connection, apparently) was the first sign that I loved learning the material and laws that provide a foundation for practically all programming languages. I also have a master's degree in Criminology from Florida State University.
 
 I have experience using the following languages:
 
@@ -30,3 +30,6 @@ I have experience using the following languages:
 - SAS (advanced)
 - SPSS (intermediate)
 - Stata (beginner)
+
+**Please feel free to stop by and ask me any questions!**
+**You can also email me at [email](michaelqmaguire2@ufl.edu)**
