@@ -32,4 +32,4 @@ I have experience using the following languages:
 - Stata (beginner)
 
 **Please feel free to stop by and ask me any questions!**
-**You can also email me at [email](michaelqmaguire2@ufl.edu)**
+**You can also [email](michaelqmaguire2@ufl.edu) me!**
