@@ -10,7 +10,7 @@ subtitle: Just a Data Analyst in POP.
 
 I'm Michael Maguire, and I'm a data analyst in The Department of Pharmaceutical Outcomes and Policy at the University of Florida College of Pharmacy.
 
-- I do, however, enjoy munging data.
+- I love/hate cleaning data.
 - I love to automate things. If it can go in a function or a macro, don't question -- the computer is going to do it for me.
 - I want to build a programming language bridge for graduate students that know other languages.
 - I am decent at deciphering the hieroglyphics of programming documentation, but even I stumble sometimes. I want to make things simpler for you all.
