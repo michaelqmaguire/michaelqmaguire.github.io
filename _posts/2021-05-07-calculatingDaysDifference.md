@@ -8,7 +8,9 @@ comments: true
 
 We often need to calculate how many days have passed from an index date or prior date. This is a common procedure required with any data containing dates, and it is a frequently asked question on the SAS forums.
 
-One way to accomplish this is through the `LAG` function in SAS. `LAG` grabs the previous record's value and stores it in a new field.
+First! Do you not have a local SAS license? No problem! SAS is freely available [here](https://welcome.oda.sas.com/home). You will need to create an account.
+
+Back on track--one way to accomplish this is through the `LAG` function in SAS. `LAG` grabs the previous record's value and stores it in a new field.
 
 Let's first create a fake data set that mimics medical claim records. Do not be afraid to run the code below.
 
@@ -160,8 +162,6 @@ As you can see, we are consistently calculating the days difference between the 
 - Use `IF-THEN` processing to minimize notes in the log and only compute the days difference metric on those records that have values.
 - Use `INTCK` to calculate the number of days between the patient's current record's date and the last date.
 - Make your decision as to what you need to do!
-
-Do you not have a SAS license? No problem! SAS is freely available [here](https://welcome.oda.sas.com/home). You will need to create an account.
 
 Also, here are some additional resources that may be helpful if you want to truly understand what is going on underneath the hood.
 
