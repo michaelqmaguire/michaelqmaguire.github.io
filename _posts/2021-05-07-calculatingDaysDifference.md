@@ -2,6 +2,7 @@
 layout: post
 title: Lagging Around - Getting Previous Date Value and Getting the Days Difference
 tags: [SAS, Dates, LAG, INTCK]
+thumbnail-img: /assets/img/DaysDifferenceUsingSAS.png
 comments: true
 ---
 
