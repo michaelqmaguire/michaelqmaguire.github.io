@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lagging Around - Getting Previous Date Value and the Days Difference,
+title: Lagging Around - Getting Previous Date Value and Getting the Days Difference
 tags: [SAS, Dates, LAG, INTCK]
 comments: true
 ---
