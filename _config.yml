@@ -16,8 +16,8 @@ author: Michael Q. Maguire, MS, Data Management Analyst II
 
 navbar-links:
   About Me: "aboutme"
-  SAS: "SAS"
-  R: "R"
+  #SAS: "SAS"
+  #R: "R"
   # Resources:
    # - Beautiful Jekyll: "https://beautifuljekyll.com"
    # - Learn markdown: "https://www.markdowntutorial.com/"
