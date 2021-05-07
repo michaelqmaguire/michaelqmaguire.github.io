@@ -173,3 +173,5 @@ Also, here are some additional resources that may be helpful if you want to trul
   - [By-Group Processing](https://v8doc.sas.com/sashtml/lrcon/z1330158.htm)
 - Fun little blog on INTCK and its counterpart, INTNX.
   - [INTCK and INTNX: Two essential functions for computing intervals between dates in SAS](https://blogs.sas.com/content/iml/2017/05/15/intck-intnx-intervals-sas.html)
+- Some alright SAS documentation on `LAG`
+  - [LAG Function](https://documentation.sas.com/doc/en/pgmsascdc/9.4_3.5/lefunctionsref/n0l66p5oqex1f2n1quuopdvtcjqb.htm)
