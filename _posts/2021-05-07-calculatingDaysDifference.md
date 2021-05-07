@@ -149,9 +149,7 @@ patid 	date 	        lag_date        difference
 504 	12/09/2015 	06/14/2014 	543
 ```
 
-As you can see, we are consistently calculating the days difference between the current record and the prior record for a given patient.
-
-**Note: If you are calculating days billed for a stay, you may need to add 1 to the days difference. This is a common requirement for billing, such that a stay in a hospital on 05/07/2021 and ending on 05/09/2021 would be billed as three days.**
+As you can see, we are consistently calculating the days difference between the current record and the prior record for a given patient. Adding one to the total is common here, but should be discussed or determined on a case-by-case basis.
 
 **TLDR:**
 - Sort your data by ID and your date.
