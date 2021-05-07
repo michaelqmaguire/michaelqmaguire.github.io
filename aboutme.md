@@ -22,4 +22,4 @@ I have experience using the following languages:
 - SPSS (intermediate)
 - Stata (beginner)
 
-**You can email me here: <michaelqmaguire2@cop.ufl.edu>**
+**Please email me here if you need additional assistance: <michaelqmaguire2@cop.ufl.edu>**
