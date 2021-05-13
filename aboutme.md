@@ -15,6 +15,8 @@ I'm Michael Maguire, and I'm a data analyst in The Department of Pharmaceutical 
 
 I attended Florida State University for my undergraduate (2010 - 2013) and graduate (2015 - 2017) degrees. I have roughly five years of experience conducting data analysis and data management. I have previously worked for the Florida Department of Juvenile Justice and the Florida Department of Education.
 
+I firmly believe in reproducibility and transparency. This stems from software vendors often providing code on their website but offering no way to reproduce their results. 
+
 I have experience using the following languages:
 
 - R (intermediate/advanced)
@@ -22,4 +24,4 @@ I have experience using the following languages:
 - SPSS (intermediate)
 - Stata (beginner)
 
-**Please email me here if you need additional assistance: <michaelqmaguire2@cop.ufl.edu>**
+**Please email me here if you need additional assistance or if you notice any issues: <michaelqmaguire2@cop.ufl.edu>**
