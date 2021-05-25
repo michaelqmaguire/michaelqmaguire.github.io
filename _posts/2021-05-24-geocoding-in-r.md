@@ -345,9 +345,12 @@ We can plot them then, too. Here’s an appetizer, if you will:
 ``` r
 library(leaflet) 
 
+map <- 
 leaflet() %>%
   addTiles() %>%
   addMarkers(pharmaciesCascadeMethod, lng = pharmaciesCascadeMethod$long, lat = pharmaciesCascadeMethod$lat)
+  
+map
 ```
 
 <div id="htmlwidget-7ab57412f7b1df4d5773" style="width:100%;height:216px;" class="leaflet html-widget"></div>
