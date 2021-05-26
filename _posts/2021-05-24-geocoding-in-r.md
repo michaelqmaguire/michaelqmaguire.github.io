@@ -97,6 +97,9 @@ pharmacies <-
 
 pharmacies
 ```
+
+Output below:
+
 ```
 ## # A tibble: 13 x 4
 ##    Name                       Address             CityStateZip       Phone      
@@ -165,6 +168,9 @@ pharmaciesCSZSeparate <-
 
 pharmaciesCSZSeparate
 ```
+
+Output below:
+
 ```
 ## # A tibble: 13 x 6
 ##    Name                     Address            City       State Zip   Phone     
@@ -222,6 +228,9 @@ pharamciesCensusMethod <-
 
 pharamciesCensusMethod
 ```
+
+Output below:
+
 ```
 ## # A tibble: 13 x 8
 ##    Name                Address        City     State Zip   Phone       lat  long
@@ -261,6 +270,9 @@ pharmaciesCascadeMethod <-
 
 pharmaciesCascadeMethod
 ```
+
+Output below:
+
 ```
 ## # A tibble: 13 x 9
 ##    Name           Address      City   State Zip   Phone     lat  long geo_method
