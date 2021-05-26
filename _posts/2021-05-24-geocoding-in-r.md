@@ -3,6 +3,7 @@ layout: post
 title: Geocoding in R
 tags: [R, Geocoding, Mapping, Tidyverse]
 linktormd: true
+thumbnail-img: /assets/img/geocoding-in-R.gif
 always_allow_html: yes
 comments: true
 ---
