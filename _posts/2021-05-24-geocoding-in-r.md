@@ -54,14 +54,14 @@ We will be working with two packages:
   
 If you do not have these packages installed, run the following in your console:
 
-```{r installPackages, eval = FALSE}
+```r
 install.packages("tidyverse")
 install.packages("tidygeocoder")
 ```
 
 *Now* we can load the libraries.
 
-```{r libLoad, message = FALSE}
+```r
 library(tidyverse)
 library(tidygeocoder)
 ```
@@ -76,7 +76,7 @@ Here's what you need to know: `tribble` stands for *transposed* `tibble`, and a 
 
 I'm going to store the addresses for the pharmacies into an object called 'pharmacies'. Go ahead and copy this and paste it into your R session!
 
-```{r addressLoad}
+```r
 pharmacies <- 
   tribble(
     ~ Name, ~ Address, ~ CityStateZip, ~ Phone,
@@ -129,7 +129,7 @@ So here, we're doing a couple things:
 
 Again, feel free to copy and paste this code and put it into your R session!
 
-```{r parseAddresses}
+```r
 pharmaciesCSZSeparate <-
   pharmacies %>% # 1
     separate(    # 2
@@ -172,7 +172,7 @@ Let's go through this step by step again:
 
 Here I am again -- copy and paste this into your R session!
 
-```{r plotCensus}
+```r
 pharamciesCensusMethod <- 
   pharmaciesCSZSeparate %>% # 1
     geocode(
@@ -193,7 +193,7 @@ Think again! Just change that method to `cascade`. What this does is it uses a c
 
 You guessed it -- copy and paste this into your R session!
 
-```{r plotCascade}
+```r
 pharmaciesCascadeMethod <- 
   pharmaciesCSZSeparate %>% # 1
     geocode(
@@ -210,9 +210,9 @@ pharmaciesCascadeMethod
 
 Wow! Each address is geocoded at this point! How exciting!
 
-We can then write out the file.
+We can then write out the file using the `readr` function called `write_csv`.
 
-```{r writeItOut1, eval = FALSE}
+```r
 write_csv(x = pharmaciesCascadeMethod, file = "save-to-my-directory")
 ```
 
@@ -236,7 +236,7 @@ Here is what I would suggest for you to do:
   
 Another tutorial:
 
-```{r eval = FALSE}
+```r
 library(readxl)
 
 # If you saved your file as an Excel file, use this.
@@ -266,7 +266,7 @@ to_geocode <-
 
 Now, we throw it into the geocoder!
 
-```{r geocodeFiles, eval = FALSE}
+```r
 geocoded <- 
   to_geocode %>%
     geocode(
@@ -281,7 +281,7 @@ geocoded <-
 
 We can then write it out to our destination directory.
 
-```{r writeItOut2, eval = FALSE}
+```r
 write.csv(x = geocoded, file = "save-to-my-directory") # base-R approach
 write_csv(x = geocode, file = "save-to-my-directory") # readr approach
 ```
