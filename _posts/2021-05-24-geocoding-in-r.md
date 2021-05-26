@@ -298,4 +298,4 @@ I recommend:
   
 If you need any help navigating the graphic user interface (GUI) of RStudio, feel free to reach out to me. I'm available in person most days, and I can certainly meet over Zoom.
 
-Until next time!
+Until next time! Have a great week!
