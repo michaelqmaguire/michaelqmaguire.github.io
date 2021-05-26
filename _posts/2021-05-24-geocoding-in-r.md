@@ -97,21 +97,24 @@ pharmacies <-
 
 pharmacies
 ```
-|Name|Address|CityStateZip|Phone|
-|----|-------|------------|-----|
-|Malcom Randall VA Medical~ |1601 SW Archer Rd|   Gainesville,FL 32~| (352)376-1~|
-|Shands Hospital-Universit~ |1600 SW Archer Rd|   Gainesville,FL 32~| (352)265-0~|
-|Tacachale                  |1621 NE Waldo Rd|    Gainesville,FL 32~| (352)955-5~|
-|North Florida Evaluation/~ |1200 NE 55th Blvd|   Gainesville,FL 32~| (352)375-8~|
-|Shands Rehabilitation Hos~ |4101 NW 89th Blvd|   Gainesville,FL 32~| (352)265-5~|
-|Shands Vista               |4101 NW 89th Blvd|   Gainesville,FL 32~| (352)265-5~|
-|N Florida Reg Med Ctr      |6500 W Newberry Rd|  Gainesville,FL 32~| (352)333-4~|
-|Tri County Hospital Willi~ |125 SW 7th St|       Williston,FL 32696| (352)528-2~|
-|Reception & Medical Center |7765 S County Road~| Lake Butler,FL 32~| (386)496-6~|
-|Shands Starke Medical Cen~ |922 E Call St|       Starke,FL 32091| (904)368-2~|
-|Lake Butler Hospital       |850 E Main St|       Lake Butler,FL 32~| (386)496-2~|
-|Ocala Regional Medical Ce~ |1431 SW 1st Ave|     Ocala,FL 34471|     (352)401-1~|
-|Munroe Regional Medical C~ |1500 SW 1st Ave|     Ocala,FL 34471|     (352)351-7~|
+```
+## # A tibble: 13 x 4
+##    Name                       Address             CityStateZip       Phone      
+##    <chr>                      <chr>               <chr>              <chr>      
+##  1 Malcom Randall VA Medical~ 1601 SW Archer Rd   Gainesville,FL 32~ (352)376-1~
+##  2 Shands Hospital-Universit~ 1600 SW Archer Rd   Gainesville,FL 32~ (352)265-0~
+##  3 Tacachale                  1621 NE Waldo Rd    Gainesville,FL 32~ (352)955-5~
+##  4 North Florida Evaluation/~ 1200 NE 55th Blvd   Gainesville,FL 32~ (352)375-8~
+##  5 Shands Rehabilitation Hos~ 4101 NW 89th Blvd   Gainesville,FL 32~ (352)265-5~
+##  6 Shands Vista               4101 NW 89th Blvd   Gainesville,FL 32~ (352)265-5~
+##  7 N Florida Reg Med Ctr      6500 W Newberry Rd  Gainesville,FL 32~ (352)333-4~
+##  8 Tri County Hospital Willi~ 125 SW 7th St       Williston,FL 32696 (352)528-2~
+##  9 Reception & Medical Center 7765 S County Road~ Lake Butler,FL 32~ (386)496-6~
+## 10 Shands Starke Medical Cen~ 922 E Call St       Starke,FL 32091    (904)368-2~
+## 11 Lake Butler Hospital       850 E Main St       Lake Butler,FL 32~ (386)496-2~
+## 12 Ocala Regional Medical Ce~ 1431 SW 1st Ave     Ocala,FL 34471     (352)401-1~
+## 13 Munroe Regional Medical C~ 1500 SW 1st Ave     Ocala,FL 34471     (352)351-7~
+```
 
 Cool! Our data is in the 'pharamcies' object, and we're ready to go. So what's next?
 
@@ -162,21 +165,24 @@ pharmaciesCSZSeparate <-
 
 pharmaciesCSZSeparate
 ```
-|Name|Address|City|State|Zip|Phone|    
-|----|-------|----|-----|---|-----|
- Malcom Randall VA Medic~|1601 SW Archer Rd|  Gainesvil~| FL  | 32608 |(352)376-~|
- Shands Hospital-Univers~|1600 SW Archer Rd|  Gainesvil~| FL  |  32610 |(352)265-~|
- Tacachale|               1621 NE Waldo Rd |  Gainesvil~| FL  |  32609 |(352)955-~|
- North Florida Evaluatio~|1200 NE 55th Blvd | Gainesvil~| FL  |  32641 |(352)375-~|
- Shands Rehabilitation H~|4101 NW 89th Blvd | Gainesvil~| FL  |  32606 |(352)265-~|
- Shands Vista|            4101 NW 89th Blvd|  Gainesvil~| FL  |  32606 |(352)265-~|
- N Florida Reg Med Ctr|   6500 W Newberry Rd| Gainesvil~| FL  |  32605 |(352)333-~|
- Tri County Hospital Wil~|125 SW 7th St |     Williston | FL  |  32696 |(352)528-~|
- Reception & Medical Cen~|7765 S County Roa~ |Lake Butl~| FL  |  32054 |(386)496-~|
- Shands Starke Medical C~|922 E Call St |     Starke    | FL  |  32091 |(904)368-~|
- Lake Butler Hospital|    850 E Main St |     Lake Butl~| FL  |  32054 |(386)496-~|
- Ocala Regional Medical ~|1431 SW 1st Ave |   Ocala     | FL  |  34471 |(352)401-~|
- Munroe Regional Medical~|1500 SW 1st Ave |   Ocala     | FL  |  34471 |(352)351-~|
+```
+## # A tibble: 13 x 6
+##    Name                     Address            City       State Zip   Phone     
+##    <chr>                    <chr>              <chr>      <chr> <chr> <chr>     
+##  1 Malcom Randall VA Medic~ 1601 SW Archer Rd  Gainesvil~ FL    32608 (352)376-~
+##  2 Shands Hospital-Univers~ 1600 SW Archer Rd  Gainesvil~ FL    32610 (352)265-~
+##  3 Tacachale                1621 NE Waldo Rd   Gainesvil~ FL    32609 (352)955-~
+##  4 North Florida Evaluatio~ 1200 NE 55th Blvd  Gainesvil~ FL    32641 (352)375-~
+##  5 Shands Rehabilitation H~ 4101 NW 89th Blvd  Gainesvil~ FL    32606 (352)265-~
+##  6 Shands Vista             4101 NW 89th Blvd  Gainesvil~ FL    32606 (352)265-~
+##  7 N Florida Reg Med Ctr    6500 W Newberry Rd Gainesvil~ FL    32605 (352)333-~
+##  8 Tri County Hospital Wil~ 125 SW 7th St      Williston  FL    32696 (352)528-~
+##  9 Reception & Medical Cen~ 7765 S County Roa~ Lake Butl~ FL    32054 (386)496-~
+## 10 Shands Starke Medical C~ 922 E Call St      Starke     FL    32091 (904)368-~
+## 11 Lake Butler Hospital     850 E Main St      Lake Butl~ FL    32054 (386)496-~
+## 12 Ocala Regional Medical ~ 1431 SW 1st Ave    Ocala      FL    34471 (352)401-~
+## 13 Munroe Regional Medical~ 1500 SW 1st Ave    Ocala      FL    34471 (352)351-~
+```
 
 We're moving now! Everything is separated, and it's looking clean.
 
@@ -216,21 +222,24 @@ pharamciesCensusMethod <-
 
 pharamciesCensusMethod
 ```
-|    Name           |     Address   |  City  | State| Zip| Phone| lat | long |
-|-------------------|---------------|--------|------|----|------|-----|------|
-|Malcom Randall VA ~| 1601 SW Arche~|Gainesv~ |FL    |32608 | (352)376~ | NA  |  NA | 
-|Shands Hospital-Un~| 1600 SW Arche~| Gainesv~ |FL    |32610 | (352)265~ | 29.6| -82.3|
-|Tacachale|           1621 NE Waldo~| Gainesv~ |FL    |32609 |(352)955~ | NA  |  NA | 
-|North Florida Eval~| 1200 NE 55th ~| Gainesv~ |FL    |32641 | (352)375~ | 29.7| -82.2|
-|Shands Rehabilitat~| 4101 NW 89th ~| Gainesv~ |FL    |32606 | (352)265~ | 29.7| -82.4|
-|Shands Vista|        4101 NW 89th ~| Gainesv~ |FL    |32606 | (352)265~ | 29.7| -82.4|
-|N Florida Reg Med ~| 6500 W Newber~| Gainesv~ |FL    |32605 | (352)333~ | 29.7| -82.4|
-|Tri County Hospita~| 125 SW 7th St | Willist~ |FL    |32696 |(352)528~ | 29.4| -82.5|
-|Reception & Medica~| 7765 S County~| Lake Bu~ |FL    |32054 | (386)496~ | 30.0| -82.3|
-|Shands Starke Medi~| 922 E Call St | Starke   |FL    |32091 | (904)368~ | 29.9| -82.1|
-|Lake Butler Hospit~| 850 E Main St | Lake Bu~ |FL    |32054 | (386)496~ | 30.0| -82.3|
-|Ocala Regional Med~| 1431 SW 1st A~| Ocala    |FL    |34471 | (352)401~ | 29.2| -82.1|
-|Munroe Regional Me~| 1500 SW 1st A~| Ocala    |FL    |34471 | (352)351~ | 29.2| -82.1|
+```
+## # A tibble: 13 x 8
+##    Name                Address        City     State Zip   Phone       lat  long
+##    <chr>               <chr>          <chr>    <chr> <chr> <chr>     <dbl> <dbl>
+##  1 Malcom Randall VA ~ 1601 SW Arche~ Gainesv~ FL    32608 (352)376~  NA    NA  
+##  2 Shands Hospital-Un~ 1600 SW Arche~ Gainesv~ FL    32610 (352)265~  29.6 -82.3
+##  3 Tacachale           1621 NE Waldo~ Gainesv~ FL    32609 (352)955~  NA    NA  
+##  4 North Florida Eval~ 1200 NE 55th ~ Gainesv~ FL    32641 (352)375~  29.7 -82.2
+##  5 Shands Rehabilitat~ 4101 NW 89th ~ Gainesv~ FL    32606 (352)265~  29.7 -82.4
+##  6 Shands Vista        4101 NW 89th ~ Gainesv~ FL    32606 (352)265~  29.7 -82.4
+##  7 N Florida Reg Med ~ 6500 W Newber~ Gainesv~ FL    32605 (352)333~  29.7 -82.4
+##  8 Tri County Hospita~ 125 SW 7th St  Willist~ FL    32696 (352)528~  29.4 -82.5
+##  9 Reception & Medica~ 7765 S County~ Lake Bu~ FL    32054 (386)496~  30.0 -82.3
+## 10 Shands Starke Medi~ 922 E Call St  Starke   FL    32091 (904)368~  29.9 -82.1
+## 11 Lake Butler Hospit~ 850 E Main St  Lake Bu~ FL    32054 (386)496~  30.0 -82.3
+## 12 Ocala Regional Med~ 1431 SW 1st A~ Ocala    FL    34471 (352)401~  29.2 -82.1
+## 13 Munroe Regional Me~ 1500 SW 1st A~ Ocala    FL    34471 (352)351~  29.2 -82.1
+```
 
 Alright, we're getting somewhere, but notice those `NA` fields. Ugh, just like the Census Geocoder, some addresses don't end up getting geocoded. How frustrating. Time to go to google and manually copy the latitude and longitude, right?
 
@@ -252,22 +261,24 @@ pharmaciesCascadeMethod <-
 
 pharmaciesCascadeMethod
 ```
-
-| Name | Address | City |State| Zip | Phone | lat| long | geo_method |
-|------|---------|------|-----|-----|-------|----|------|------------|
-|Malcom Randal~| 1601 SW Arc~| Gaine~| FL | 32608| (352)3~|  29.6| -82.4| osm | 
-|Shands Hospit~| 1600 SW Arc~| Gaine~| FL | 32610| (352)2~|  29.6| -82.3| census|
-|Tacachale     | 1621 NE Wal~| Gaine~| FL | 32609| (352)9~|  29.7| -82.3| osm| 
-|North Florida~| 1200 NE 55t~| Gaine~| FL | 32641| (352)3~|  29.7| -82.2| census| 
-|Shands Rehabi~| 4101 NW 89t~|Gaine~ | FL | 32606| (352)2~|  29.7| -82.4| census|  
-|Shands Vista  | 4101 NW 89t~| Gaine~| FL | 32606| (352)2~|  29.7| -82.4| census|   
-|N Florida Reg~| 6500 W Newb~| Gaine~| FL | 32605| (352)3~|  29.7| -82.4| census|    
-|Tri County Ho~| 125 SW 7th ~| Willi~| FL | 32696| (352)5~|  29.4| -82.5| osm|      
-|Reception & M~| 7765 S Coun~| Lake ~| FL | 32054| (386)4~|  30.0| -82.3| census|  
-|Shands Starke~| 922 E Call ~| Starke| FL | 32091| (904)3~|  29.9| -82.1| census|   
-|Lake Butler H~| 850 E Main ~| Lake ~| FL | 32054| (386)4~|  30.0| -82.3|census|    
-|Ocala Regiona~| 1431 SW 1st~| Ocala | FL | 34471| (352)4~|  29.2| -82.1| census|   
-|Munroe Region~| 1500 SW 1st~| Ocala | FL | 34471| (352)3~|  29.2| -82.1| census|
+```
+## # A tibble: 13 x 9
+##    Name           Address      City   State Zip   Phone     lat  long geo_method
+##    <chr>          <chr>        <chr>  <chr> <chr> <chr>   <dbl> <dbl> <chr>     
+##  1 Malcom Randal~ 1601 SW Arc~ Gaine~ FL    32608 (352)3~  29.6 -82.4 osm       
+##  2 Shands Hospit~ 1600 SW Arc~ Gaine~ FL    32610 (352)2~  29.6 -82.3 census    
+##  3 Tacachale      1621 NE Wal~ Gaine~ FL    32609 (352)9~  29.7 -82.3 osm       
+##  4 North Florida~ 1200 NE 55t~ Gaine~ FL    32641 (352)3~  29.7 -82.2 census    
+##  5 Shands Rehabi~ 4101 NW 89t~ Gaine~ FL    32606 (352)2~  29.7 -82.4 census    
+##  6 Shands Vista   4101 NW 89t~ Gaine~ FL    32606 (352)2~  29.7 -82.4 census    
+##  7 N Florida Reg~ 6500 W Newb~ Gaine~ FL    32605 (352)3~  29.7 -82.4 census    
+##  8 Tri County Ho~ 125 SW 7th ~ Willi~ FL    32696 (352)5~  29.4 -82.5 osm       
+##  9 Reception & M~ 7765 S Coun~ Lake ~ FL    32054 (386)4~  30.0 -82.3 census    
+## 10 Shands Starke~ 922 E Call ~ Starke FL    32091 (904)3~  29.9 -82.1 census    
+## 11 Lake Butler H~ 850 E Main ~ Lake ~ FL    32054 (386)4~  30.0 -82.3 census    
+## 12 Ocala Regiona~ 1431 SW 1st~ Ocala  FL    34471 (352)4~  29.2 -82.1 census    
+## 13 Munroe Region~ 1500 SW 1st~ Ocala  FL    34471 (352)3~  29.2 -82.1 census
+```
 
 Wow! Each address is geocoded at this point! How exciting!
 
